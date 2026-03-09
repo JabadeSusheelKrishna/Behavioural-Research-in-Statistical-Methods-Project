@@ -1,0 +1,19 @@
+1. Relevant papers:
+- https://www.sciencedirect.com/science/article/abs/pii/S0022537171800105
+- https://www.sciencedirect.com/science/article/abs/pii/S0022537168800222
+- https://www.sciencedirect.com/science/article/abs/pii/S002253717380060X
+2. Brief on experiment and methodology:
+- We generated simple Subject–Verb–Object (S–V–O) sentences by systematically varying the memorability of the subject and object nouns. High- and low-memorability nouns were drawn from established word memorability norms, while verbs were selected from a fixed set of medium-concreteness action verbs to minimize variability. This yielded four sentence types: HH, HL, LH, and LL. Sentences were short (≤8 words), used no proper nouns, and were phrased in natural spoken English. Automated fluency checks and semantic-coherence filters removed ungrammatical or implausible sentences, followed by manual screening. From the resulting pool, we selected 200 active-voice sentences (50 per type). Each sentence was also converted into a passive-voice form, producing paired active and passive variants. This resulted in 400 total sentences across eight conditions (HH, HL, LH, LL × active/passive), enabling tests of exact repetition and voice-transformed recognition.
+- It's a continuous recognition experiment. Each participant sees 48 target sentences across 3 blocks.
+3. Research question of Interest
+- How memorability of sentences is affected by it's structure and constituent words
+4. Statistical metrics
+- Kruskal-Wallis test
+- Corrected memorability scores
+5. Types of variables
+- Words (H and L) and voice (Active and passive)
+6. Number of participants
+- According to our power analysis we would require a total of 334 participants that are successfully completed the experiment for our hypotheses.
+7. Exclusion Criteria
+- The blocks that have not passed the validation test will be excluded from the final calculation of the memorability scores
+- The validation formula: Number of Correct validation (IRs) > (Number of wrong IRs / 2 ) + Number of Missed IRs (Validation)

@@ -1,0 +1,912 @@
+﻿participant_ID,Timestamp,Event,Stimulus,isTarget,isValidation,isRepeat,Button,Accuracy IR,Accuracy WR,Reaction_time_IR,Reaction_time_WR,CR_IR,CR_WR
+271,1770461228004,Practice Sentence shown,HH_116_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461233507,Practice Sentence shown,HH_109_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461239009,Practice Sentence shown,HL_88_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461244511,Practice Sentence shown,HL_100_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461250013,Practice Sentence shown,HH_116_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461254014,Practice Missed,HH_116_P,true,,true,None,0,N/A,N/A,N/A,N/A,N/A
+271,1770461268004,Practice Sentence shown,HH_134_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461273506,Practice Sentence shown,HH_117_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461279008,Practice Sentence shown,HL_104_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461284510,Practice Sentence shown,HH_109_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461288511,Practice Missed,HH_109_P,true,,true,None,0,N/A,N/A,N/A,N/A,N/A
+271,1770461297453,Practice Sentence shown,HL_19_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461302955,Practice Sentence shown,HH_134_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461306956,Practice Missed,HH_134_A,true,,true,None,0,N/A,N/A,N/A,N/A,N/A
+271,1770461315177,Practice Sentence shown,HL_94_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461320680,Practice Sentence shown,HL_102_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461326182,Practice Sentence shown,HH_117_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461327723,Practice IR pressed,HH_117_P,true,,true,Spacebar,1,N/A,1541,N/A,N/A,N/A
+271,1770461328600,Practice WR pressed,HH_117_P,true,,true,Yes,N/A,0,N/A,877,N/A,N/A
+271,1770461337657,Practice Sentence shown,HL_106_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461343159,Practice Sentence shown,HL_76_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461348661,Practice Sentence shown,HL_11_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461354163,Practice Sentence shown,HL_58_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461359665,Practice Sentence shown,HH_121_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461365168,Practice Sentence shown,HH_121_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461367571,Practice IR pressed,HH_121_A,true,,true,Spacebar,1,N/A,2403,N/A,N/A,N/A
+271,1770461375420,Practice WR pressed,HH_121_A,true,,true,Yes,N/A,1,N/A,7849,N/A,N/A
+271,1770461394491,Practice Sentence shown,HH_103_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461399993,Practice Sentence shown,HL_76_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461402908,Practice IR pressed,HL_76_A,,,,Spacebar,0,N/A,2915,N/A,N/A,N/A
+271,1770461410451,Practice Sentence shown,HL_51_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461415954,Practice Sentence shown,HH_108_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461421456,Practice Sentence shown,HL_9_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461426958,Practice Sentence shown,HL_70_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461429146,Practice IR pressed,HL_70_A,,,,Spacebar,0,N/A,2188,N/A,N/A,N/A
+271,1770461432358,Practice Sentence shown,HL_48_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461437860,Practice Sentence shown,HH_106_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461443362,Practice Sentence shown,HH_103_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461445204,Practice IR pressed,HH_103_P,true,,true,Spacebar,1,N/A,1842,N/A,N/A,N/A
+271,1770461446785,Practice WR pressed,HH_103_P,true,,true,No,N/A,1,N/A,1581,N/A,N/A
+271,1770461448286,Practice Sentence shown,HL_35_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461453788,Practice Sentence shown,HH_108_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461455769,Practice IR pressed,HH_108_P,true,,true,Spacebar,1,N/A,1981,N/A,N/A,N/A
+271,1770461458829,Practice WR pressed,HH_108_P,true,,true,No,N/A,1,N/A,3060,N/A,N/A
+271,1770461460330,Practice Sentence shown,HH_113_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461465832,Practice Sentence shown,HL_59_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461471334,Practice Sentence shown,HH_106_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461475097,Practice IR pressed,HH_106_P,true,,true,Spacebar,1,N/A,3763,N/A,N/A,N/A
+271,1770461477840,Practice WR pressed,HH_106_P,true,,true,No,N/A,1,N/A,2743,N/A,N/A
+271,1770461479341,Practice Sentence shown,HH_135_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461484843,Practice Sentence shown,HL_80_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461487212,Practice IR pressed,HL_80_A,,,,Spacebar,0,N/A,2369,N/A,N/A,N/A
+271,1770461490034,Practice Sentence shown,HL_25_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461495536,Practice Sentence shown,HH_113_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461497345,Practice IR pressed,HH_113_A,true,,true,Spacebar,1,N/A,1809,N/A,N/A,N/A
+271,1770461501343,Practice WR pressed,HH_113_A,true,,true,No,N/A,0,N/A,3998,N/A,N/A
+271,1770461506853,Practice Sentence shown,HL_43_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461512356,Practice Sentence shown,HH_135_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461514002,Practice IR pressed,HH_135_A,true,,true,Spacebar,1,N/A,1646,N/A,N/A,N/A
+271,1770461514947,Practice WR pressed,HH_135_A,true,,true,Yes,N/A,1,N/A,945,N/A,N/A
+271,1770461524248,Sentence shown,HH_137_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461528250,gap_time,N/A,true,,,GapTime_1201,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461529452,Sentence shown,HF_27_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461533453,gap_time,N/A,,,,GapTime_977,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461534431,Sentence shown,HF_27_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461535631,Validation IR pressed,HF_27_A,,true,true,Spacebar,1,N/A,1200,N/A,N/A,N/A
+271,1770461535631,IR pressed,HF_27_A,,true,true,Spacebar,1,N/A,1200,N/A,N/A,N/A
+271,1770461536426,WR pressed,HF_27_A,,true,true,Yes,N/A,N/A,N/A,795,N/A,N/A
+271,1770461536427,gap_time,N/A,,true,true,GapTime_913,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461537341,Sentence shown,HF_20_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461541342,gap_time,N/A,,,,GapTime_772,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461542115,Sentence shown,HF_17_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461546117,gap_time,N/A,,,,GapTime_1252,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461547370,Sentence shown,HF_16_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461551371,gap_time,N/A,,,,GapTime_1192,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461552564,Sentence shown,HF_33_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461556565,gap_time,N/A,,,,GapTime_1190,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461557757,Sentence shown,HH_170_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461561758,gap_time,N/A,true,,,GapTime_845,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461562604,Sentence shown,HF_1_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461564340,Validation Wrong IR pressed,HF_1_A,,,,Spacebar,0,N/A,1736,N/A,N/A,N/A
+271,1770461564340,IR pressed,HF_1_A,,,,Spacebar,0,N/A,1736,N/A,N/A,N/A
+271,1770461566316,WR pressed,HF_1_A,,,,No,N/A,N/A,N/A,1976,N/A,N/A
+271,1770461566316,gap_time,N/A,,,,GapTime_1193,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461567511,Sentence shown,HH_137_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461569323,IR pressed,HH_137_A,true,,true,Spacebar,1,N/A,1812,N/A,N/A,N/A
+271,1770461576627,WR pressed,HH_137_A,true,,true,Yes,N/A,0,N/A,7304,N/A,N/A
+271,1770461576627,gap_time,N/A,true,,true,GapTime_1257,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461577886,Sentence shown,LVL_103_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461581886,gap_time,N/A,true,,,GapTime_1006,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461582894,Sentence shown,LVH_107_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461586895,gap_time,N/A,true,,,GapTime_1163,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461588060,Sentence shown,HF_9_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461589514,Validation Wrong IR pressed,HF_9_A,,,,Spacebar,0,N/A,1454,N/A,N/A,N/A
+271,1770461589514,IR pressed,HF_9_A,,,,Spacebar,0,N/A,1454,N/A,N/A,N/A
+271,1770461591389,WR pressed,HF_9_A,,,,No,N/A,N/A,N/A,1875,N/A,N/A
+271,1770461591389,gap_time,N/A,,,,GapTime_1272,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461592662,Sentence shown,LVH_103_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461596664,gap_time,N/A,true,,,GapTime_1194,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461597859,Sentence shown,HVL_138_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461601860,gap_time,N/A,true,,,GapTime_785,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461602646,Sentence shown,HF_29_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461606647,gap_time,N/A,,,,GapTime_1213,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461607861,Sentence shown,HH_170_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461609107,IR pressed,HH_170_A,true,,true,Spacebar,1,N/A,1246,N/A,N/A,N/A
+271,1770461609553,WR pressed,HH_170_A,true,,true,Yes,N/A,1,N/A,446,N/A,N/A
+271,1770461609553,gap_time,N/A,true,,true,GapTime_1118,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461610672,Sentence shown,LVL_128_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461613015,Validation Wrong IR pressed,LVL_128_A,true,,,Spacebar,0,N/A,2343,N/A,N/A,N/A
+271,1770461613015,IR pressed,LVL_128_A,true,,,Spacebar,0,N/A,2343,N/A,N/A,N/A
+271,1770461613578,WR pressed,LVL_128_A,true,,,No,N/A,1,N/A,563,N/A,N/A
+271,1770461613578,gap_time,N/A,true,,,GapTime_1017,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461614596,Sentence shown,HF_29_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461616195,Validation IR pressed,HF_29_A,,true,true,Spacebar,1,N/A,1599,N/A,N/A,N/A
+271,1770461616195,IR pressed,HF_29_A,,true,true,Spacebar,1,N/A,1599,N/A,N/A,N/A
+271,1770461616807,WR pressed,HF_29_A,,true,true,Yes,N/A,N/A,N/A,612,N/A,N/A
+271,1770461616807,gap_time,N/A,,true,true,GapTime_946,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461617754,Sentence shown,LVL_103_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461619484,IR pressed,LVL_103_A,true,,true,Spacebar,1,N/A,1730,N/A,N/A,N/A
+271,1770461620005,WR pressed,LVL_103_A,true,,true,Yes,N/A,1,N/A,521,N/A,N/A
+271,1770461620005,gap_time,N/A,true,,true,GapTime_949,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461620955,Sentence shown,HF_15_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461624956,gap_time,N/A,,,,GapTime_1203,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461626160,Sentence shown,HH_163_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461630161,gap_time,N/A,true,,,GapTime_981,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461631144,Sentence shown,LVH_107_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461633197,IR pressed,LVH_107_A,true,,true,Spacebar,1,N/A,2053,N/A,N/A,N/A
+271,1770461634080,WR pressed,LVH_107_A,true,,true,No,N/A,0,N/A,883,N/A,N/A
+271,1770461634080,gap_time,N/A,true,,true,GapTime_1122,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461635203,Sentence shown,HVL_157_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461636934,Validation Wrong IR pressed,HVL_157_P,true,,,Spacebar,0,N/A,1731,N/A,N/A,N/A
+271,1770461636934,IR pressed,HVL_157_P,true,,,Spacebar,0,N/A,1731,N/A,N/A,N/A
+271,1770461637512,WR pressed,HVL_157_P,true,,,No,N/A,1,N/A,578,N/A,N/A
+271,1770461637512,gap_time,N/A,true,,,GapTime_1191,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461638704,Sentence shown,HF_23_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461642705,gap_time,N/A,,,,GapTime_1237,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461643943,Sentence shown,HVL_138_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461646019,IR pressed,HVL_138_P,true,,true,Spacebar,1,N/A,2076,N/A,N/A,N/A
+271,1770461646530,WR pressed,HVL_138_P,true,,true,Yes,N/A,0,N/A,511,N/A,N/A
+271,1770461646530,gap_time,N/A,true,,true,GapTime_1110,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461647642,Sentence shown,LVH_103_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461650312,IR pressed,LVH_103_P,true,,true,Spacebar,1,N/A,2670,N/A,N/A,N/A
+271,1770461652443,WR pressed,LVH_103_P,true,,true,No,N/A,1,N/A,2131,N/A,N/A
+271,1770461652443,gap_time,N/A,true,,true,GapTime_731,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461653175,Sentence shown,HF_2_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461655318,Validation Wrong IR pressed,HF_2_A,,,,Spacebar,0,N/A,2143,N/A,N/A,N/A
+271,1770461655319,IR pressed,HF_2_A,,,,Spacebar,0,N/A,2143,N/A,N/A,N/A
+271,1770461656615,WR pressed,HF_2_A,,,,No,N/A,N/A,N/A,1296,N/A,N/A
+271,1770461656616,gap_time,N/A,,,,GapTime_1176,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461657792,Sentence shown,HF_2_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461660243,Validation IR pressed,HF_2_A,,true,true,Spacebar,1,N/A,2451,N/A,N/A,N/A
+271,1770461660243,IR pressed,HF_2_A,,true,true,Spacebar,1,N/A,2451,N/A,N/A,N/A
+271,1770461661121,WR pressed,HF_2_A,,true,true,No,N/A,N/A,N/A,878,N/A,N/A
+271,1770461661121,gap_time,N/A,,true,true,GapTime_933,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461662055,Sentence shown,LVL_128_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461663796,IR pressed,LVL_128_P,true,,true,Spacebar,1,N/A,1741,N/A,N/A,N/A
+271,1770461664498,WR pressed,LVL_128_P,true,,true,No,N/A,1,N/A,702,N/A,N/A
+271,1770461664499,gap_time,N/A,true,,true,GapTime_876,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461665375,Sentence shown,HF_6_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461669376,gap_time,N/A,,,,GapTime_1261,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461670638,Sentence shown,HF_6_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461672437,Validation IR pressed,HF_6_A,,true,true,Spacebar,1,N/A,1798,N/A,N/A,N/A
+271,1770461672437,IR pressed,HF_6_A,,true,true,Spacebar,1,N/A,1798,N/A,N/A,N/A
+271,1770461674886,WR pressed,HF_6_A,,true,true,No,N/A,N/A,N/A,2449,N/A,N/A
+271,1770461674886,gap_time,N/A,,true,true,GapTime_852,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461675738,Sentence shown,HF_21_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461679739,gap_time,N/A,,,,GapTime_1224,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461680964,Sentence shown,HVL_157_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461682411,IR pressed,HVL_157_A,true,,true,Spacebar,1,N/A,1447,N/A,N/A,N/A
+271,1770461682793,WR pressed,HVL_157_A,true,,true,Yes,N/A,0,N/A,382,N/A,N/A
+271,1770461682793,gap_time,N/A,true,,true,GapTime_1255,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461684049,Sentence shown,HVL_129_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461688050,gap_time,N/A,true,,,GapTime_721,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461688772,Sentence shown,HH_163_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461690874,IR pressed,HH_163_P,true,,true,Spacebar,1,N/A,2102,N/A,N/A,N/A
+271,1770461693709,WR pressed,HH_163_P,true,,true,No,N/A,1,N/A,2835,N/A,N/A
+271,1770461693710,gap_time,N/A,true,,true,GapTime_735,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461694446,Sentence shown,HF_4_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461696281,Validation Wrong IR pressed,HF_4_A,,,,Spacebar,0,N/A,1835,N/A,N/A,N/A
+271,1770461696281,IR pressed,HF_4_A,,,,Spacebar,0,N/A,1835,N/A,N/A,N/A
+271,1770461698642,WR pressed,HF_4_A,,,,No,N/A,N/A,N/A,2361,N/A,N/A
+271,1770461698642,gap_time,N/A,,,,GapTime_792,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461699435,Sentence shown,LVH_106_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461703437,gap_time,N/A,true,,,GapTime_1110,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461704548,Sentence shown,HF_7_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461707030,Validation Wrong IR pressed,HF_7_A,,,,Spacebar,0,N/A,2482,N/A,N/A,N/A
+271,1770461707030,IR pressed,HF_7_A,,,,Spacebar,0,N/A,2482,N/A,N/A,N/A
+271,1770461707843,WR pressed,HF_7_A,,,,No,N/A,N/A,N/A,813,N/A,N/A
+271,1770461707843,gap_time,N/A,,,,GapTime_1259,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461709103,Sentence shown,HF_31_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461713104,gap_time,N/A,,,,GapTime_1255,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461714361,Sentence shown,HF_7_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461715680,Validation IR pressed,HF_7_A,,true,true,Spacebar,1,N/A,1319,N/A,N/A,N/A
+271,1770461715680,IR pressed,HF_7_A,,true,true,Spacebar,1,N/A,1319,N/A,N/A,N/A
+271,1770461716498,WR pressed,HF_7_A,,true,true,Yes,N/A,N/A,N/A,818,N/A,N/A
+271,1770461716499,gap_time,N/A,,true,true,GapTime_774,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461717274,Sentence shown,HVL_129_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461719044,IR pressed,HVL_129_A,true,,true,Spacebar,1,N/A,1770,N/A,N/A,N/A
+271,1770461719446,WR pressed,HVL_129_A,true,,true,Yes,N/A,1,N/A,402,N/A,N/A
+271,1770461719446,gap_time,N/A,true,,true,GapTime_789,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461720236,Sentence shown,HF_18_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461724237,gap_time,N/A,,,,GapTime_865,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461725103,Sentence shown,HF_25_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461726928,Validation Wrong IR pressed,HF_25_A,,,,Spacebar,0,N/A,1825,N/A,N/A,N/A
+271,1770461726928,IR pressed,HF_25_A,,,,Spacebar,0,N/A,1825,N/A,N/A,N/A
+271,1770461727924,WR pressed,HF_25_A,,,,No,N/A,N/A,N/A,996,N/A,N/A
+271,1770461727924,gap_time,N/A,,,,GapTime_1043,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461728968,Sentence shown,HF_5_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461730649,Validation Wrong IR pressed,HF_5_A,,,,Spacebar,0,N/A,1681,N/A,N/A,N/A
+271,1770461730649,IR pressed,HF_5_A,,,,Spacebar,0,N/A,1681,N/A,N/A,N/A
+271,1770461731171,WR pressed,HF_5_A,,,,No,N/A,N/A,N/A,522,N/A,N/A
+271,1770461731171,gap_time,N/A,,,,GapTime_843,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461732015,Sentence shown,LVH_117_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461736016,gap_time,N/A,true,,,GapTime_755,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461736772,Sentence shown,LVH_106_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461738804,IR pressed,LVH_106_A,true,,true,Spacebar,1,N/A,2032,N/A,N/A,N/A
+271,1770461739583,WR pressed,LVH_106_A,true,,true,No,N/A,1,N/A,779,N/A,N/A
+271,1770461739584,gap_time,N/A,true,,true,GapTime_816,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461740401,Sentence shown,HF_19_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461742522,Validation Wrong IR pressed,HF_19_A,,,,Spacebar,0,N/A,2121,N/A,N/A,N/A
+271,1770461742522,IR pressed,HF_19_A,,,,Spacebar,0,N/A,2121,N/A,N/A,N/A
+271,1770461743228,WR pressed,HF_19_A,,,,Yes,N/A,N/A,N/A,705,N/A,N/A
+271,1770461743228,gap_time,N/A,,,,GapTime_845,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461744074,Sentence shown,HF_10_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461746338,Validation Wrong IR pressed,HF_10_A,,,,Spacebar,0,N/A,2264,N/A,N/A,N/A
+271,1770461746338,IR pressed,HF_10_A,,,,Spacebar,0,N/A,2264,N/A,N/A,N/A
+271,1770461746853,WR pressed,HF_10_A,,,,No,N/A,N/A,N/A,515,N/A,N/A
+271,1770461746853,gap_time,N/A,,,,GapTime_1161,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461748015,Sentence shown,HF_11_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461749208,Validation Wrong IR pressed,HF_11_A,,,,Spacebar,0,N/A,1193,N/A,N/A,N/A
+271,1770461749208,IR pressed,HF_11_A,,,,Spacebar,0,N/A,1193,N/A,N/A,N/A
+271,1770461749694,WR pressed,HF_11_A,,,,Yes,N/A,N/A,N/A,486,N/A,N/A
+271,1770461749695,gap_time,N/A,,,,GapTime_1048,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461750744,Sentence shown,HF_11_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461751672,Validation IR pressed,HF_11_A,,true,true,Spacebar,1,N/A,928,N/A,N/A,N/A
+271,1770461751672,IR pressed,HF_11_A,,true,true,Spacebar,1,N/A,928,N/A,N/A,N/A
+271,1770461752106,WR pressed,HF_11_A,,true,true,Yes,N/A,N/A,N/A,434,N/A,N/A
+271,1770461752106,gap_time,N/A,,true,true,GapTime_875,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461752982,Sentence shown,HF_13_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461754915,Validation Wrong IR pressed,HF_13_A,,,,Spacebar,0,N/A,1933,N/A,N/A,N/A
+271,1770461754915,IR pressed,HF_13_A,,,,Spacebar,0,N/A,1933,N/A,N/A,N/A
+271,1770461756104,WR pressed,HF_13_A,,,,No,N/A,N/A,N/A,1189,N/A,N/A
+271,1770461756104,gap_time,N/A,,,,GapTime_881,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461756987,Sentence shown,LVH_117_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461759055,IR pressed,LVH_117_P,true,,true,Spacebar,1,N/A,2068,N/A,N/A,N/A
+271,1770461759531,WR pressed,LVH_117_P,true,,true,Yes,N/A,1,N/A,476,N/A,N/A
+271,1770461759532,gap_time,N/A,true,,true,GapTime_1230,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461760763,Sentence shown,HVL_102_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461763047,Validation Wrong IR pressed,HVL_102_P,true,,,Spacebar,0,N/A,2284,N/A,N/A,N/A
+271,1770461763047,IR pressed,HVL_102_P,true,,,Spacebar,0,N/A,2284,N/A,N/A,N/A
+271,1770461763466,WR pressed,HVL_102_P,true,,,No,N/A,0,N/A,419,N/A,N/A
+271,1770461763467,gap_time,N/A,true,,,GapTime_961,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461764429,Sentence shown,HF_30_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461766409,Validation Wrong IR pressed,HF_30_A,,,,Spacebar,0,N/A,1980,N/A,N/A,N/A
+271,1770461766409,IR pressed,HF_30_A,,,,Spacebar,0,N/A,1980,N/A,N/A,N/A
+271,1770461766802,WR pressed,HF_30_A,,,,No,N/A,N/A,N/A,393,N/A,N/A
+271,1770461766803,gap_time,N/A,,,,GapTime_832,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461767636,Sentence shown,HF_24_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461769624,Validation Wrong IR pressed,HF_24_A,,,,Spacebar,0,N/A,1988,N/A,N/A,N/A
+271,1770461769624,IR pressed,HF_24_A,,,,Spacebar,0,N/A,1988,N/A,N/A,N/A
+271,1770461770152,WR pressed,HF_24_A,,,,No,N/A,N/A,N/A,528,N/A,N/A
+271,1770461770152,gap_time,N/A,,,,GapTime_872,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461771026,Sentence shown,HF_24_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461772615,Validation IR pressed,HF_24_A,,true,true,Spacebar,1,N/A,1589,N/A,N/A,N/A
+271,1770461772615,IR pressed,HF_24_A,,true,true,Spacebar,1,N/A,1589,N/A,N/A,N/A
+271,1770461773051,WR pressed,HF_24_A,,true,true,Yes,N/A,N/A,N/A,436,N/A,N/A
+271,1770461773051,gap_time,N/A,,true,true,GapTime_921,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461773973,Sentence shown,HF_28_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461775775,Validation Wrong IR pressed,HF_28_A,,,,Spacebar,0,N/A,1802,N/A,N/A,N/A
+271,1770461775775,IR pressed,HF_28_A,,,,Spacebar,0,N/A,1802,N/A,N/A,N/A
+271,1770461776543,WR pressed,HF_28_A,,,,Yes,N/A,N/A,N/A,768,N/A,N/A
+271,1770461776543,gap_time,N/A,,,,GapTime_1240,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461777784,Sentence shown,HH_181_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461779895,Validation Wrong IR pressed,HH_181_P,true,,,Spacebar,0,N/A,2111,N/A,N/A,N/A
+271,1770461779895,IR pressed,HH_181_P,true,,,Spacebar,0,N/A,2111,N/A,N/A,N/A
+271,1770461780787,WR pressed,HH_181_P,true,,,No,N/A,0,N/A,892,N/A,N/A
+271,1770461780788,gap_time,N/A,true,,,GapTime_1122,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461781910,Sentence shown,HF_28_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461783021,Validation IR pressed,HF_28_A,,true,true,Spacebar,1,N/A,1111,N/A,N/A,N/A
+271,1770461783021,IR pressed,HF_28_A,,true,true,Spacebar,1,N/A,1111,N/A,N/A,N/A
+271,1770461783779,WR pressed,HF_28_A,,true,true,Yes,N/A,N/A,N/A,758,N/A,N/A
+271,1770461783779,gap_time,N/A,,true,true,GapTime_1121,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461784902,Sentence shown,LVL_144_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461788903,gap_time,N/A,true,,,GapTime_1016,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461789919,Sentence shown,HVL_102_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461791300,IR pressed,HVL_102_P,true,,true,Spacebar,1,N/A,1381,N/A,N/A,N/A
+271,1770461792986,WR pressed,HVL_102_P,true,,true,No,N/A,0,N/A,1686,N/A,N/A
+271,1770461792986,gap_time,N/A,true,,true,GapTime_759,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461793746,Sentence shown,HF_8_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461796060,Validation Wrong IR pressed,HF_8_A,,,,Spacebar,0,N/A,2314,N/A,N/A,N/A
+271,1770461796060,IR pressed,HF_8_A,,,,Spacebar,0,N/A,2314,N/A,N/A,N/A
+271,1770461797239,WR pressed,HF_8_A,,,,Yes,N/A,N/A,N/A,1179,N/A,N/A
+271,1770461797239,gap_time,N/A,,,,GapTime_754,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461797994,Sentence shown,HF_26_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461799960,Validation Wrong IR pressed,HF_26_A,,,,Spacebar,0,N/A,1966,N/A,N/A,N/A
+271,1770461799960,IR pressed,HF_26_A,,,,Spacebar,0,N/A,1966,N/A,N/A,N/A
+271,1770461801996,WR pressed,HF_26_A,,,,Yes,N/A,N/A,N/A,2036,N/A,N/A
+271,1770461801997,gap_time,N/A,,,,GapTime_1199,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461803197,Sentence shown,HF_8_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461804454,Validation IR pressed,HF_8_A,,true,true,Spacebar,1,N/A,1257,N/A,N/A,N/A
+271,1770461804454,IR pressed,HF_8_A,,true,true,Spacebar,1,N/A,1257,N/A,N/A,N/A
+271,1770461805061,WR pressed,HF_8_A,,true,true,Yes,N/A,N/A,N/A,607,N/A,N/A
+271,1770461805062,gap_time,N/A,,true,true,GapTime_1164,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461806227,Sentence shown,HF_32_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461808056,Validation Wrong IR pressed,HF_32_A,,,,Spacebar,0,N/A,1829,N/A,N/A,N/A
+271,1770461808056,IR pressed,HF_32_A,,,,Spacebar,0,N/A,1829,N/A,N/A,N/A
+271,1770461808505,WR pressed,HF_32_A,,,,No,N/A,N/A,N/A,449,N/A,N/A
+271,1770461808505,gap_time,N/A,,,,GapTime_1144,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461809650,Sentence shown,HF_22_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461811159,Validation Wrong IR pressed,HF_22_A,,,,Spacebar,0,N/A,1509,N/A,N/A,N/A
+271,1770461811159,IR pressed,HF_22_A,,,,Spacebar,0,N/A,1509,N/A,N/A,N/A
+271,1770461811557,WR pressed,HF_22_A,,,,No,N/A,N/A,N/A,398,N/A,N/A
+271,1770461811557,gap_time,N/A,,,,GapTime_1286,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461812844,Sentence shown,HF_14_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461814430,Validation Wrong IR pressed,HF_14_A,,,,Spacebar,0,N/A,1586,N/A,N/A,N/A
+271,1770461814430,IR pressed,HF_14_A,,,,Spacebar,0,N/A,1586,N/A,N/A,N/A
+271,1770461815239,WR pressed,HF_14_A,,,,No,N/A,N/A,N/A,809,N/A,N/A
+271,1770461815240,gap_time,N/A,,,,GapTime_763,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461816004,Sentence shown,HH_181_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461818162,IR pressed,HH_181_P,true,,true,Spacebar,1,N/A,2158,N/A,N/A,N/A
+271,1770461819386,WR pressed,HH_181_P,true,,true,Yes,N/A,1,N/A,1223,N/A,N/A
+271,1770461819386,gap_time,N/A,true,,true,GapTime_724,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461820111,Sentence shown,LVL_108_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461822398,Validation Wrong IR pressed,LVL_108_P,true,,,Spacebar,0,N/A,2287,N/A,N/A,N/A
+271,1770461822398,IR pressed,LVL_108_P,true,,,Spacebar,0,N/A,2287,N/A,N/A,N/A
+271,1770461823467,WR pressed,LVL_108_P,true,,,No,N/A,1,N/A,1069,N/A,N/A
+271,1770461823467,gap_time,N/A,true,,,GapTime_1195,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461824663,Sentence shown,LVL_144_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461826409,IR pressed,LVL_144_P,true,,true,Spacebar,1,N/A,1746,N/A,N/A,N/A
+271,1770461826759,WR pressed,LVL_144_P,true,,true,Yes,N/A,1,N/A,350,N/A,N/A
+271,1770461826759,gap_time,N/A,true,,true,GapTime_982,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461827742,Sentence shown,HF_12_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461829980,Validation Wrong IR pressed,HF_12_A,,,,Spacebar,0,N/A,2238,N/A,N/A,N/A
+271,1770461829980,IR pressed,HF_12_A,,,,Spacebar,0,N/A,2238,N/A,N/A,N/A
+271,1770461830731,WR pressed,HF_12_A,,,,No,N/A,N/A,N/A,751,N/A,N/A
+271,1770461830731,gap_time,N/A,,,,GapTime_854,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461831587,Sentence shown,HF_12_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461833198,Validation IR pressed,HF_12_A,,true,true,Spacebar,1,N/A,1611,N/A,N/A,N/A
+271,1770461833198,IR pressed,HF_12_A,,true,true,Spacebar,1,N/A,1611,N/A,N/A,N/A
+271,1770461833767,WR pressed,HF_12_A,,true,true,Yes,N/A,N/A,N/A,569,N/A,N/A
+271,1770461833767,gap_time,N/A,,true,true,GapTime_881,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461834649,Sentence shown,LVL_108_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461835838,IR pressed,LVL_108_A,true,,true,Spacebar,1,N/A,1189,N/A,N/A,N/A
+271,1770461837557,WR pressed,LVL_108_A,true,,true,Yes,N/A,0,N/A,1719,N/A,N/A
+271,1770461837558,gap_time,N/A,true,,true,GapTime_1181,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770461838740,Rest Phase started,N/A,true,,true,Rest,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462005426,Sentence shown,HF_36_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462009426,gap_time,N/A,,,,GapTime_796,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462010224,Sentence shown,HF_40_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462014225,gap_time,N/A,,,,GapTime_1073,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462015299,Sentence shown,HF_38_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462019299,gap_time,N/A,,,,GapTime_800,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462020100,Sentence shown,HF_42_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462024101,gap_time,N/A,,,,GapTime_950,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462025052,Sentence shown,HF_42_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462026164,Validation IR pressed,HF_42_A,,true,true,Spacebar,1,N/A,1112,N/A,N/A,N/A
+271,1770462026164,IR pressed,HF_42_A,,true,true,Spacebar,1,N/A,1112,N/A,N/A,N/A
+271,1770462026874,WR pressed,HF_42_A,,true,true,Yes,N/A,N/A,N/A,710,N/A,N/A
+271,1770462026874,gap_time,N/A,,true,true,GapTime_1182,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462028058,Sentence shown,LVH_168_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462032059,gap_time,N/A,true,,,GapTime_1146,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462033205,Sentence shown,HF_62_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462034880,Validation Wrong IR pressed,HF_62_A,,,,Spacebar,0,N/A,1674,N/A,N/A,N/A
+271,1770462034880,IR pressed,HF_62_A,,,,Spacebar,0,N/A,1674,N/A,N/A,N/A
+271,1770462035789,WR pressed,HF_62_A,,,,No,N/A,N/A,N/A,909,N/A,N/A
+271,1770462035789,gap_time,N/A,,,,GapTime_1213,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462037004,Sentence shown,HF_41_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462041005,gap_time,N/A,,,,GapTime_822,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462041828,Sentence shown,HF_53_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462045828,gap_time,N/A,,,,GapTime_748,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462046577,Sentence shown,LVH_168_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462048546,IR pressed,LVH_168_A,true,,true,Spacebar,1,N/A,1969,N/A,N/A,N/A
+271,1770462049683,WR pressed,LVH_168_A,true,,true,No,N/A,1,N/A,1137,N/A,N/A
+271,1770462049684,gap_time,N/A,true,,true,GapTime_918,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462050602,Sentence shown,HH_149_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462054603,gap_time,N/A,true,,,GapTime_806,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462055411,Sentence shown,HF_53_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462056565,Validation IR pressed,HF_53_A,,true,true,Spacebar,1,N/A,1154,N/A,N/A,N/A
+271,1770462056565,IR pressed,HF_53_A,,true,true,Spacebar,1,N/A,1154,N/A,N/A,N/A
+271,1770462056978,WR pressed,HF_53_A,,true,true,Yes,N/A,N/A,N/A,413,N/A,N/A
+271,1770462056978,gap_time,N/A,,true,true,GapTime_796,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462057775,Sentence shown,HF_50_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462061776,gap_time,N/A,,,,GapTime_725,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462062503,Sentence shown,HF_59_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462064413,Validation Wrong IR pressed,HF_59_A,,,,Spacebar,0,N/A,1910,N/A,N/A,N/A
+271,1770462064413,IR pressed,HF_59_A,,,,Spacebar,0,N/A,1910,N/A,N/A,N/A
+271,1770462065110,WR pressed,HF_59_A,,,,No,N/A,N/A,N/A,697,N/A,N/A
+271,1770462065110,gap_time,N/A,,,,GapTime_1051,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462066163,Sentence shown,HF_55_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462067619,Validation Wrong IR pressed,HF_55_A,,,,Spacebar,0,N/A,1456,N/A,N/A,N/A
+271,1770462067619,IR pressed,HF_55_A,,,,Spacebar,0,N/A,1456,N/A,N/A,N/A
+271,1770462068229,WR pressed,HF_55_A,,,,No,N/A,N/A,N/A,610,N/A,N/A
+271,1770462068230,gap_time,N/A,,,,GapTime_1091,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462069322,Sentence shown,HF_50_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462070631,Validation IR pressed,HF_50_A,,true,true,Spacebar,1,N/A,1309,N/A,N/A,N/A
+271,1770462070631,IR pressed,HF_50_A,,true,true,Spacebar,1,N/A,1309,N/A,N/A,N/A
+271,1770462071017,WR pressed,HF_50_A,,true,true,Yes,N/A,N/A,N/A,386,N/A,N/A
+271,1770462071017,gap_time,N/A,,true,true,GapTime_717,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462071735,Sentence shown,HF_59_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462073395,Validation IR pressed,HF_59_A,,true,true,Spacebar,1,N/A,1660,N/A,N/A,N/A
+271,1770462073395,IR pressed,HF_59_A,,true,true,Spacebar,1,N/A,1660,N/A,N/A,N/A
+271,1770462073738,WR pressed,HF_59_A,,true,true,No,N/A,N/A,N/A,343,N/A,N/A
+271,1770462073738,gap_time,N/A,,true,true,GapTime_939,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462074678,Sentence shown,HF_45_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462076496,Validation Wrong IR pressed,HF_45_A,,,,Spacebar,0,N/A,1818,N/A,N/A,N/A
+271,1770462076496,IR pressed,HF_45_A,,,,Spacebar,0,N/A,1818,N/A,N/A,N/A
+271,1770462077094,WR pressed,HF_45_A,,,,No,N/A,N/A,N/A,598,N/A,N/A
+271,1770462077094,gap_time,N/A,,,,GapTime_787,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462077882,Sentence shown,HF_44_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462081883,gap_time,N/A,,,,GapTime_1074,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462082959,Sentence shown,HF_46_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462086960,gap_time,N/A,,,,GapTime_992,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462087953,Sentence shown,HH_149_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462089946,IR pressed,HH_149_P,true,,true,Spacebar,1,N/A,1993,N/A,N/A,N/A
+271,1770462090546,WR pressed,HH_149_P,true,,true,Yes,N/A,0,N/A,600,N/A,N/A
+271,1770462090546,gap_time,N/A,true,,true,GapTime_981,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462091528,Sentence shown,HH_148_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462095529,gap_time,N/A,true,,,GapTime_737,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462096267,Sentence shown,LVH_109_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462099235,Validation Wrong IR pressed,LVH_109_P,true,,,Spacebar,0,N/A,2968,N/A,N/A,N/A
+271,1770462099235,IR pressed,LVH_109_P,true,,,Spacebar,0,N/A,2968,N/A,N/A,N/A
+271,1770462099711,WR pressed,LVH_109_P,true,,,No,N/A,0,N/A,476,N/A,N/A
+271,1770462099711,gap_time,N/A,true,,,GapTime_747,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462100459,Sentence shown,HF_43_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462104460,gap_time,N/A,,,,GapTime_1190,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462105652,Sentence shown,HF_52_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462107201,Validation Wrong IR pressed,HF_52_A,,,,Spacebar,0,N/A,1549,N/A,N/A,N/A
+271,1770462107201,IR pressed,HF_52_A,,,,Spacebar,0,N/A,1549,N/A,N/A,N/A
+271,1770462109461,WR pressed,HF_52_A,,,,No,N/A,N/A,N/A,2260,N/A,N/A
+271,1770462109461,gap_time,N/A,,,,GapTime_1261,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462110723,Sentence shown,LVL_114_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462114724,gap_time,N/A,true,,,GapTime_747,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462115472,Sentence shown,HF_49_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462117161,Validation Wrong IR pressed,HF_49_A,,,,Spacebar,0,N/A,1689,N/A,N/A,N/A
+271,1770462117161,IR pressed,HF_49_A,,,,Spacebar,0,N/A,1689,N/A,N/A,N/A
+271,1770462118223,WR pressed,HF_49_A,,,,No,N/A,N/A,N/A,1062,N/A,N/A
+271,1770462118223,gap_time,N/A,,,,GapTime_836,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462119061,Sentence shown,HF_49_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462120349,Validation IR pressed,HF_49_A,,true,true,Spacebar,1,N/A,1288,N/A,N/A,N/A
+271,1770462120349,IR pressed,HF_49_A,,true,true,Spacebar,1,N/A,1288,N/A,N/A,N/A
+271,1770462120751,WR pressed,HF_49_A,,true,true,Yes,N/A,N/A,N/A,402,N/A,N/A
+271,1770462120752,gap_time,N/A,,true,true,GapTime_1012,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462121765,Sentence shown,HH_148_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462123533,IR pressed,HH_148_P,true,,true,Spacebar,1,N/A,1768,N/A,N/A,N/A
+271,1770462124173,WR pressed,HH_148_P,true,,true,Yes,N/A,1,N/A,640,N/A,N/A
+271,1770462124173,gap_time,N/A,true,,true,GapTime_1289,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462125463,Sentence shown,HH_147_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462128189,Validation Wrong IR pressed,HH_147_P,true,,,Spacebar,0,N/A,2726,N/A,N/A,N/A
+271,1770462128189,IR pressed,HH_147_P,true,,,Spacebar,0,N/A,2726,N/A,N/A,N/A
+271,1770462128625,WR pressed,HH_147_P,true,,,No,N/A,1,N/A,436,N/A,N/A
+271,1770462128625,gap_time,N/A,true,,,GapTime_1093,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462129720,Sentence shown,LVH_109_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462132105,IR pressed,LVH_109_P,true,,true,Spacebar,1,N/A,2385,N/A,N/A,N/A
+271,1770462132644,WR pressed,LVH_109_P,true,,true,Yes,N/A,1,N/A,539,N/A,N/A
+271,1770462132644,gap_time,N/A,true,,true,GapTime_784,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462133430,Sentence shown,HF_39_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462137431,gap_time,N/A,,,,GapTime_734,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462138166,Sentence shown,HF_58_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462142167,gap_time,N/A,,,,GapTime_782,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462142950,Sentence shown,HF_65_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462144554,Validation Wrong IR pressed,HF_65_A,,,,Spacebar,0,N/A,1604,N/A,N/A,N/A
+271,1770462144554,IR pressed,HF_65_A,,,,Spacebar,0,N/A,1604,N/A,N/A,N/A
+271,1770462145302,WR pressed,HF_65_A,,,,No,N/A,N/A,N/A,748,N/A,N/A
+271,1770462145302,gap_time,N/A,,,,GapTime_845,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462146148,Sentence shown,HF_39_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462147706,Validation IR pressed,HF_39_A,,true,true,Spacebar,1,N/A,1558,N/A,N/A,N/A
+271,1770462147706,IR pressed,HF_39_A,,true,true,Spacebar,1,N/A,1558,N/A,N/A,N/A
+271,1770462148166,WR pressed,HF_39_A,,true,true,Yes,N/A,N/A,N/A,460,N/A,N/A
+271,1770462148166,gap_time,N/A,,true,true,GapTime_834,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462149001,Sentence shown,LVL_114_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462150275,IR pressed,LVL_114_P,true,,true,Spacebar,1,N/A,1273,N/A,N/A,N/A
+271,1770462150731,WR pressed,LVL_114_P,true,,true,Yes,N/A,0,N/A,456,N/A,N/A
+271,1770462150732,gap_time,N/A,true,,true,GapTime_1159,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462151892,Sentence shown,HF_35_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462155894,gap_time,N/A,,,,GapTime_792,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462156687,Sentence shown,HF_37_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462159681,Validation Wrong IR pressed,HF_37_A,,,,Spacebar,0,N/A,2993,N/A,N/A,N/A
+271,1770462159681,IR pressed,HF_37_A,,,,Spacebar,0,N/A,2993,N/A,N/A,N/A
+271,1770462160271,WR pressed,HF_37_A,,,,No,N/A,N/A,N/A,590,N/A,N/A
+271,1770462160271,gap_time,N/A,,,,GapTime_728,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462161000,Sentence shown,HH_147_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462162338,IR pressed,HH_147_A,true,,true,Spacebar,1,N/A,1338,N/A,N/A,N/A
+271,1770462162935,WR pressed,HH_147_A,true,,true,Yes,N/A,0,N/A,597,N/A,N/A
+271,1770462162935,gap_time,N/A,true,,true,GapTime_921,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462163857,Sentence shown,LVL_104_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462167858,gap_time,N/A,true,,,GapTime_987,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462168846,Sentence shown,HF_37_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462171636,Validation IR pressed,HF_37_A,,true,true,Spacebar,1,N/A,2790,N/A,N/A,N/A
+271,1770462171636,IR pressed,HF_37_A,,true,true,Spacebar,1,N/A,2790,N/A,N/A,N/A
+271,1770462172137,WR pressed,HF_37_A,,true,true,Yes,N/A,N/A,N/A,501,N/A,N/A
+271,1770462172137,gap_time,N/A,,true,true,GapTime_996,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462173134,Sentence shown,HF_47_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462174778,Validation Wrong IR pressed,HF_47_A,,,,Spacebar,0,N/A,1644,N/A,N/A,N/A
+271,1770462174778,IR pressed,HF_47_A,,,,Spacebar,0,N/A,1644,N/A,N/A,N/A
+271,1770462175295,WR pressed,HF_47_A,,,,No,N/A,N/A,N/A,517,N/A,N/A
+271,1770462175295,gap_time,N/A,,,,GapTime_1269,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462176565,Sentence shown,HF_47_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462177919,Validation IR pressed,HF_47_A,,true,true,Spacebar,1,N/A,1354,N/A,N/A,N/A
+271,1770462177919,IR pressed,HF_47_A,,true,true,Spacebar,1,N/A,1354,N/A,N/A,N/A
+271,1770462178327,WR pressed,HF_47_A,,true,true,Yes,N/A,N/A,N/A,408,N/A,N/A
+271,1770462178328,gap_time,N/A,,true,true,GapTime_972,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462179301,Sentence shown,HVL_104_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462183302,gap_time,N/A,true,,,GapTime_965,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462184268,Sentence shown,HF_34_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462186016,Validation Wrong IR pressed,HF_34_A,,,,Spacebar,0,N/A,1748,N/A,N/A,N/A
+271,1770462186016,IR pressed,HF_34_A,,,,Spacebar,0,N/A,1748,N/A,N/A,N/A
+271,1770462188050,WR pressed,HF_34_A,,,,No,N/A,N/A,N/A,2034,N/A,N/A
+271,1770462188051,gap_time,N/A,,,,GapTime_706,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462188758,Sentence shown,LVL_104_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462190786,IR pressed,LVL_104_A,true,,true,Spacebar,1,N/A,2028,N/A,N/A,N/A
+271,1770462192778,WR pressed,LVL_104_A,true,,true,No,N/A,1,N/A,1992,N/A,N/A
+271,1770462192778,gap_time,N/A,true,,true,GapTime_1009,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462193789,Sentence shown,HH_172_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462197789,gap_time,N/A,true,,,GapTime_1068,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462198859,Sentence shown,HF_57_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462202859,gap_time,N/A,,,,GapTime_823,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462203683,Sentence shown,HF_56_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462205382,Validation Wrong IR pressed,HF_56_A,,,,Spacebar,0,N/A,1699,N/A,N/A,N/A
+271,1770462205382,IR pressed,HF_56_A,,,,Spacebar,0,N/A,1699,N/A,N/A,N/A
+271,1770462206418,WR pressed,HF_56_A,,,,No,N/A,N/A,N/A,1036,N/A,N/A
+271,1770462206418,gap_time,N/A,,,,GapTime_1131,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462207550,Sentence shown,HVL_104_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462209302,IR pressed,HVL_104_P,true,,true,Spacebar,1,N/A,1752,N/A,N/A,N/A
+271,1770462209755,WR pressed,HVL_104_P,true,,true,Yes,N/A,1,N/A,453,N/A,N/A
+271,1770462209755,gap_time,N/A,true,,true,GapTime_706,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462210463,Sentence shown,LVH_136_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462214464,gap_time,N/A,true,,,GapTime_754,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462215219,Sentence shown,HF_60_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462218227,Validation Wrong IR pressed,HF_60_A,,,,Spacebar,0,N/A,3008,N/A,N/A,N/A
+271,1770462218227,IR pressed,HF_60_A,,,,Spacebar,0,N/A,3008,N/A,N/A,N/A
+271,1770462218885,WR pressed,HF_60_A,,,,No,N/A,N/A,N/A,658,N/A,N/A
+271,1770462218886,gap_time,N/A,,,,GapTime_1173,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462220060,Sentence shown,HF_60_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462221406,Validation IR pressed,HF_60_A,,true,true,Spacebar,1,N/A,1346,N/A,N/A,N/A
+271,1770462221406,IR pressed,HF_60_A,,true,true,Spacebar,1,N/A,1346,N/A,N/A,N/A
+271,1770462221852,WR pressed,HF_60_A,,true,true,Yes,N/A,N/A,N/A,446,N/A,N/A
+271,1770462221853,gap_time,N/A,,true,true,GapTime_817,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462222670,Sentence shown,HH_172_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462223968,IR pressed,HH_172_A,true,,true,Spacebar,1,N/A,1298,N/A,N/A,N/A
+271,1770462224492,WR pressed,HH_172_A,true,,true,Yes,N/A,1,N/A,524,N/A,N/A
+271,1770462224492,gap_time,N/A,true,,true,GapTime_720,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462225213,Sentence shown,HF_48_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462227430,Validation Wrong IR pressed,HF_48_A,,,,Spacebar,0,N/A,2217,N/A,N/A,N/A
+271,1770462227430,IR pressed,HF_48_A,,,,Spacebar,0,N/A,2217,N/A,N/A,N/A
+271,1770462227935,WR pressed,HF_48_A,,,,Yes,N/A,N/A,N/A,505,N/A,N/A
+271,1770462227935,gap_time,N/A,,,,GapTime_1085,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462229021,Sentence shown,HF_64_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462231746,Validation Wrong IR pressed,HF_64_A,,,,Spacebar,0,N/A,2725,N/A,N/A,N/A
+271,1770462231746,IR pressed,HF_64_A,,,,Spacebar,0,N/A,2725,N/A,N/A,N/A
+271,1770462232852,WR pressed,HF_64_A,,,,No,N/A,N/A,N/A,1106,N/A,N/A
+271,1770462232852,gap_time,N/A,,,,GapTime_859,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462233713,Sentence shown,HF_51_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462236268,Validation Wrong IR pressed,HF_51_A,,,,Spacebar,0,N/A,2555,N/A,N/A,N/A
+271,1770462236268,IR pressed,HF_51_A,,,,Spacebar,0,N/A,2555,N/A,N/A,N/A
+271,1770462237116,WR pressed,HF_51_A,,,,No,N/A,N/A,N/A,848,N/A,N/A
+271,1770462237116,gap_time,N/A,,,,GapTime_871,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462237988,Sentence shown,HF_48_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462239331,Validation IR pressed,HF_48_A,,true,true,Spacebar,1,N/A,1343,N/A,N/A,N/A
+271,1770462239331,IR pressed,HF_48_A,,true,true,Spacebar,1,N/A,1343,N/A,N/A,N/A
+271,1770462239677,WR pressed,HF_48_A,,true,true,Yes,N/A,N/A,N/A,346,N/A,N/A
+271,1770462239677,gap_time,N/A,,true,true,GapTime_925,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462240604,Sentence shown,HVL_110_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462244605,gap_time,N/A,true,,,GapTime_1027,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462245633,Sentence shown,HF_61_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462247674,Validation Wrong IR pressed,HF_61_A,,,,Spacebar,0,N/A,2041,N/A,N/A,N/A
+271,1770462247674,IR pressed,HF_61_A,,,,Spacebar,0,N/A,2041,N/A,N/A,N/A
+271,1770462248268,WR pressed,HF_61_A,,,,No,N/A,N/A,N/A,594,N/A,N/A
+271,1770462248268,gap_time,N/A,,,,GapTime_1185,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462249454,Sentence shown,LVH_136_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462251766,IR pressed,LVH_136_P,true,,true,Spacebar,1,N/A,2312,N/A,N/A,N/A
+271,1770462252188,WR pressed,LVH_136_P,true,,true,No,N/A,1,N/A,422,N/A,N/A
+271,1770462252189,gap_time,N/A,true,,true,GapTime_907,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462253097,Sentence shown,HF_63_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462255720,Validation Wrong IR pressed,HF_63_A,,,,Spacebar,0,N/A,2623,N/A,N/A,N/A
+271,1770462255720,IR pressed,HF_63_A,,,,Spacebar,0,N/A,2623,N/A,N/A,N/A
+271,1770462256501,WR pressed,HF_63_A,,,,No,N/A,N/A,N/A,781,N/A,N/A
+271,1770462256501,gap_time,N/A,,,,GapTime_1017,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462257520,Sentence shown,HF_54_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462261520,gap_time,N/A,,,,GapTime_957,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462262478,Sentence shown,LVH_123_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462266479,gap_time,N/A,true,,,GapTime_1118,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462267598,Sentence shown,LVL_115_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462270120,Validation Wrong IR pressed,LVL_115_P,true,,,Spacebar,0,N/A,2522,N/A,N/A,N/A
+271,1770462270120,IR pressed,LVL_115_P,true,,,Spacebar,0,N/A,2522,N/A,N/A,N/A
+271,1770462271117,WR pressed,LVL_115_P,true,,,No,N/A,0,N/A,997,N/A,N/A
+271,1770462271118,gap_time,N/A,true,,,GapTime_809,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462271927,Sentence shown,LVL_131_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462275928,gap_time,N/A,true,,,GapTime_1028,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462276958,Sentence shown,HVL_110_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462278451,IR pressed,HVL_110_P,true,,true,Spacebar,1,N/A,1493,N/A,N/A,N/A
+271,1770462278806,WR pressed,HVL_110_P,true,,true,No,N/A,1,N/A,355,N/A,N/A
+271,1770462278806,gap_time,N/A,true,,true,GapTime_1265,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462280073,Sentence shown,HVL_144_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462283299,Validation Wrong IR pressed,HVL_144_P,true,,,Spacebar,0,N/A,3226,N/A,N/A,N/A
+271,1770462283299,IR pressed,HVL_144_P,true,,,Spacebar,0,N/A,3226,N/A,N/A,N/A
+271,1770462283774,WR pressed,HVL_144_P,true,,,No,N/A,1,N/A,475,N/A,N/A
+271,1770462283774,gap_time,N/A,true,,,GapTime_848,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462284623,Sentence shown,HVL_114_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462288624,gap_time,N/A,true,,,GapTime_861,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462289486,Sentence shown,LVH_123_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462291120,IR pressed,LVH_123_A,true,,true,Spacebar,1,N/A,1634,N/A,N/A,N/A
+271,1770462291436,WR pressed,LVH_123_A,true,,true,Yes,N/A,1,N/A,316,N/A,N/A
+271,1770462291437,gap_time,N/A,true,,true,GapTime_838,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462292276,Sentence shown,LVL_115_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462295390,IR pressed,LVL_115_P,true,,true,Spacebar,1,N/A,3114,N/A,N/A,N/A
+271,1770462296234,WR pressed,LVL_115_P,true,,true,No,N/A,0,N/A,844,N/A,N/A
+271,1770462296234,gap_time,N/A,true,,true,GapTime_897,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462297132,Sentence shown,LVL_131_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462300023,IR pressed,LVL_131_A,true,,true,Spacebar,1,N/A,2891,N/A,N/A,N/A
+271,1770462301518,WR pressed,LVL_131_A,true,,true,No,N/A,0,N/A,1495,N/A,N/A
+271,1770462301518,gap_time,N/A,true,,true,GapTime_1153,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462302673,Sentence shown,HVL_144_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462305136,IR pressed,HVL_144_A,true,,true,Spacebar,1,N/A,2463,N/A,N/A,N/A
+271,1770462305686,WR pressed,HVL_144_A,true,,true,No,N/A,1,N/A,550,N/A,N/A
+271,1770462305686,gap_time,N/A,true,,true,GapTime_711,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462306397,Sentence shown,HVL_114_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462307754,IR pressed,HVL_114_A,true,,true,Spacebar,1,N/A,1357,N/A,N/A,N/A
+271,1770462308128,WR pressed,HVL_114_A,true,,true,Yes,N/A,1,N/A,374,N/A,N/A
+271,1770462308128,gap_time,N/A,true,,true,GapTime_1102,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462309231,Rest Phase started,N/A,true,,true,Rest,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462487381,Sentence shown,HVL_146_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462491382,gap_time,N/A,true,,,GapTime_1106,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462492488,Sentence shown,HF_74_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462496489,gap_time,N/A,,,,GapTime_1128,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462497619,Sentence shown,HF_72_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462501619,gap_time,N/A,,,,GapTime_1237,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462502857,Sentence shown,HVL_111_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462506858,gap_time,N/A,true,,,GapTime_1142,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462508001,Sentence shown,HH_141_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462512002,gap_time,N/A,true,,,GapTime_916,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462512919,Sentence shown,LVL_146_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462516920,gap_time,N/A,true,,,GapTime_868,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462517789,Sentence shown,HF_88_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462521790,gap_time,N/A,,,,GapTime_909,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462522701,Sentence shown,HF_88_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462523542,Validation IR pressed,HF_88_A,,true,true,Spacebar,1,N/A,841,N/A,N/A,N/A
+271,1770462523542,IR pressed,HF_88_A,,true,true,Spacebar,1,N/A,841,N/A,N/A,N/A
+271,1770462524508,WR pressed,HF_88_A,,true,true,Yes,N/A,N/A,N/A,966,N/A,N/A
+271,1770462524509,gap_time,N/A,,true,true,GapTime_990,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462525500,Sentence shown,HF_91_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462529501,gap_time,N/A,,,,GapTime_1227,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462530729,Sentence shown,HVL_146_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462532873,IR pressed,HVL_146_P,true,,true,Spacebar,1,N/A,2144,N/A,N/A,N/A
+271,1770462534722,WR pressed,HVL_146_P,true,,true,Yes,N/A,0,N/A,1849,N/A,N/A
+271,1770462534722,gap_time,N/A,true,,true,GapTime_934,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462535657,Sentence shown,HF_97_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462537194,Validation Wrong IR pressed,HF_97_A,,,,Spacebar,0,N/A,1537,N/A,N/A,N/A
+271,1770462537194,IR pressed,HF_97_A,,,,Spacebar,0,N/A,1537,N/A,N/A,N/A
+271,1770462537513,WR pressed,HF_97_A,,,,No,N/A,N/A,N/A,319,N/A,N/A
+271,1770462537514,gap_time,N/A,,,,GapTime_794,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462538309,Sentence shown,HF_91_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462539661,Validation IR pressed,HF_91_A,,true,true,Spacebar,1,N/A,1352,N/A,N/A,N/A
+271,1770462539661,IR pressed,HF_91_A,,true,true,Spacebar,1,N/A,1352,N/A,N/A,N/A
+271,1770462539903,WR pressed,HF_91_A,,true,true,Yes,N/A,N/A,N/A,242,N/A,N/A
+271,1770462539903,gap_time,N/A,,true,true,GapTime_1098,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462541003,Sentence shown,HF_97_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462542232,Validation IR pressed,HF_97_A,,true,true,Spacebar,1,N/A,1229,N/A,N/A,N/A
+271,1770462542232,IR pressed,HF_97_A,,true,true,Spacebar,1,N/A,1229,N/A,N/A,N/A
+271,1770462542557,WR pressed,HF_97_A,,true,true,No,N/A,N/A,N/A,325,N/A,N/A
+271,1770462542557,gap_time,N/A,,true,true,GapTime_1135,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462543693,Sentence shown,HF_70_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462547694,gap_time,N/A,,,,GapTime_790,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462548485,Sentence shown,HF_84_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462550607,Validation Wrong IR pressed,HF_84_A,,,,Spacebar,0,N/A,2122,N/A,N/A,N/A
+271,1770462550607,IR pressed,HF_84_A,,,,Spacebar,0,N/A,2122,N/A,N/A,N/A
+271,1770462550853,WR pressed,HF_84_A,,,,No,N/A,N/A,N/A,246,N/A,N/A
+271,1770462550853,gap_time,N/A,,,,GapTime_908,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462551762,Sentence shown,HF_84_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462552766,Validation IR pressed,HF_84_A,,true,true,Spacebar,1,N/A,1004,N/A,N/A,N/A
+271,1770462552766,IR pressed,HF_84_A,,true,true,Spacebar,1,N/A,1004,N/A,N/A,N/A
+271,1770462553125,WR pressed,HF_84_A,,true,true,Yes,N/A,N/A,N/A,359,N/A,N/A
+271,1770462553125,gap_time,N/A,,true,true,GapTime_1052,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462554178,Sentence shown,HH_141_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462556114,IR pressed,HH_141_P,true,,true,Spacebar,1,N/A,1936,N/A,N/A,N/A
+271,1770462556470,WR pressed,HH_141_P,true,,true,Yes,N/A,0,N/A,356,N/A,N/A
+271,1770462556470,gap_time,N/A,true,,true,GapTime_1193,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462557664,Sentence shown,HVL_111_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462560070,IR pressed,HVL_111_P,true,,true,Spacebar,1,N/A,2406,N/A,N/A,N/A
+271,1770462560845,WR pressed,HVL_111_P,true,,true,Yes,N/A,1,N/A,775,N/A,N/A
+271,1770462560845,gap_time,N/A,true,,true,GapTime_905,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462561752,Sentence shown,HH_158_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462564856,Validation Wrong IR pressed,HH_158_P,true,,,Spacebar,0,N/A,3104,N/A,N/A,N/A
+271,1770462564856,IR pressed,HH_158_P,true,,,Spacebar,0,N/A,3104,N/A,N/A,N/A
+271,1770462565186,WR pressed,HH_158_P,true,,,No,N/A,0,N/A,330,N/A,N/A
+271,1770462565187,gap_time,N/A,true,,,GapTime_1146,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462566334,Sentence shown,HF_93_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462570334,gap_time,N/A,,,,GapTime_895,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462571230,Sentence shown,LVL_146_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462573200,IR pressed,LVL_146_P,true,,true,Spacebar,1,N/A,1970,N/A,N/A,N/A
+271,1770462573531,WR pressed,LVL_146_P,true,,true,Yes,N/A,0,N/A,331,N/A,N/A
+271,1770462573532,gap_time,N/A,true,,true,GapTime_812,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462574344,Sentence shown,HH_164_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462578345,gap_time,N/A,true,,,GapTime_875,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462579222,Sentence shown,HF_66_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462580584,Validation Wrong IR pressed,HF_66_A,,,,Spacebar,0,N/A,1362,N/A,N/A,N/A
+271,1770462580584,IR pressed,HF_66_A,,,,Spacebar,0,N/A,1362,N/A,N/A,N/A
+271,1770462580977,WR pressed,HF_66_A,,,,No,N/A,N/A,N/A,393,N/A,N/A
+271,1770462580978,gap_time,N/A,,,,GapTime_1163,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462582142,Sentence shown,HF_75_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462586143,gap_time,N/A,,,,GapTime_892,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462587037,Sentence shown,LVH_157_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462591038,gap_time,N/A,true,,,GapTime_907,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462591946,Sentence shown,HF_89_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462594831,Validation Wrong IR pressed,HF_89_A,,,,Spacebar,0,N/A,2885,N/A,N/A,N/A
+271,1770462594831,IR pressed,HF_89_A,,,,Spacebar,0,N/A,2885,N/A,N/A,N/A
+271,1770462595149,WR pressed,HF_89_A,,,,No,N/A,N/A,N/A,318,N/A,N/A
+271,1770462595150,gap_time,N/A,,,,GapTime_1198,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462596349,Sentence shown,HH_158_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462598959,IR pressed,HH_158_P,true,,true,Spacebar,1,N/A,2610,N/A,N/A,N/A
+271,1770462599168,WR pressed,HH_158_P,true,,true,No,N/A,0,N/A,209,N/A,N/A
+271,1770462599168,gap_time,N/A,true,,true,GapTime_776,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462599945,Sentence shown,HVL_155_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462603946,gap_time,N/A,true,,,GapTime_1099,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462605047,Sentence shown,HH_164_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462608535,IR pressed,HH_164_A,true,,true,Spacebar,1,N/A,3488,N/A,N/A,N/A
+271,1770462609852,WR pressed,HH_164_A,true,,true,No,N/A,0,N/A,1316,N/A,N/A
+271,1770462609852,gap_time,N/A,true,,true,GapTime_999,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462610852,Sentence shown,HF_81_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462612312,Validation Wrong IR pressed,HF_81_A,,,,Spacebar,0,N/A,1460,N/A,N/A,N/A
+271,1770462612312,IR pressed,HF_81_A,,,,Spacebar,0,N/A,1460,N/A,N/A,N/A
+271,1770462612530,WR pressed,HF_81_A,,,,No,N/A,N/A,N/A,218,N/A,N/A
+271,1770462612530,gap_time,N/A,,,,GapTime_1224,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462613756,Sentence shown,LVL_109_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462617757,gap_time,N/A,true,,,GapTime_1183,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462618940,Sentence shown,LVH_105_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462621518,Validation Wrong IR pressed,LVH_105_A,true,,,Spacebar,0,N/A,2578,N/A,N/A,N/A
+271,1770462621518,IR pressed,LVH_105_A,true,,,Spacebar,0,N/A,2578,N/A,N/A,N/A
+271,1770462622346,WR pressed,LVH_105_A,true,,,No,N/A,1,N/A,828,N/A,N/A
+271,1770462622346,gap_time,N/A,true,,,GapTime_934,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462623281,Sentence shown,HF_80_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462624473,Validation Wrong IR pressed,HF_80_A,,,,Spacebar,0,N/A,1192,N/A,N/A,N/A
+271,1770462624473,IR pressed,HF_80_A,,,,Spacebar,0,N/A,1192,N/A,N/A,N/A
+271,1770462624714,WR pressed,HF_80_A,,,,No,N/A,N/A,N/A,241,N/A,N/A
+271,1770462624714,gap_time,N/A,,,,GapTime_1229,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462625944,Sentence shown,LVH_157_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462627463,IR pressed,LVH_157_P,true,,true,Spacebar,1,N/A,1519,N/A,N/A,N/A
+271,1770462627824,WR pressed,LVH_157_P,true,,true,Yes,N/A,1,N/A,361,N/A,N/A
+271,1770462627824,gap_time,N/A,true,,true,GapTime_900,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462628725,Sentence shown,HF_80_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462630080,Validation IR pressed,HF_80_A,,true,true,Spacebar,1,N/A,1355,N/A,N/A,N/A
+271,1770462630080,IR pressed,HF_80_A,,true,true,Spacebar,1,N/A,1355,N/A,N/A,N/A
+271,1770462630331,WR pressed,HF_80_A,,true,true,No,N/A,N/A,N/A,251,N/A,N/A
+271,1770462630331,gap_time,N/A,,true,true,GapTime_832,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462631164,Sentence shown,HF_78_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462633029,Validation Wrong IR pressed,HF_78_A,,,,Spacebar,0,N/A,1865,N/A,N/A,N/A
+271,1770462633029,IR pressed,HF_78_A,,,,Spacebar,0,N/A,1865,N/A,N/A,N/A
+271,1770462633676,WR pressed,HF_78_A,,,,No,N/A,N/A,N/A,647,N/A,N/A
+271,1770462633676,gap_time,N/A,,,,GapTime_858,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462634535,Sentence shown,HF_77_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462638536,gap_time,N/A,,,,GapTime_1040,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462639578,Sentence shown,LVL_109_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462640817,IR pressed,LVL_109_P,true,,true,Spacebar,1,N/A,1239,N/A,N/A,N/A
+271,1770462641400,WR pressed,LVL_109_P,true,,true,Yes,N/A,1,N/A,583,N/A,N/A
+271,1770462641401,gap_time,N/A,true,,true,GapTime_919,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462642320,Sentence shown,HVL_155_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462643462,IR pressed,HVL_155_A,true,,true,Spacebar,1,N/A,1142,N/A,N/A,N/A
+271,1770462644037,WR pressed,HVL_155_A,true,,true,Yes,N/A,1,N/A,575,N/A,N/A
+271,1770462644037,gap_time,N/A,true,,true,GapTime_997,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462645035,Sentence shown,HF_87_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462646344,Validation Wrong IR pressed,HF_87_A,,,,Spacebar,0,N/A,1309,N/A,N/A,N/A
+271,1770462646344,IR pressed,HF_87_A,,,,Spacebar,0,N/A,1309,N/A,N/A,N/A
+271,1770462646648,WR pressed,HF_87_A,,,,No,N/A,N/A,N/A,304,N/A,N/A
+271,1770462646648,gap_time,N/A,,,,GapTime_1218,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462647867,Sentence shown,LVH_105_P,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462649412,IR pressed,LVH_105_P,true,,true,Spacebar,1,N/A,1545,N/A,N/A,N/A
+271,1770462651950,WR pressed,LVH_105_P,true,,true,Yes,N/A,0,N/A,2538,N/A,N/A
+271,1770462651950,gap_time,N/A,true,,true,GapTime_822,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462652774,Sentence shown,HF_76_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462656775,gap_time,N/A,,,,GapTime_1111,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462657887,Sentence shown,HF_76_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462659282,Validation IR pressed,HF_76_A,,true,true,Spacebar,1,N/A,1395,N/A,N/A,N/A
+271,1770462659282,IR pressed,HF_76_A,,true,true,Spacebar,1,N/A,1395,N/A,N/A,N/A
+271,1770462659676,WR pressed,HF_76_A,,true,true,Yes,N/A,N/A,N/A,394,N/A,N/A
+271,1770462659676,gap_time,N/A,,true,true,GapTime_1029,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462660706,Sentence shown,HF_69_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462662447,Validation Wrong IR pressed,HF_69_A,,,,Spacebar,0,N/A,1741,N/A,N/A,N/A
+271,1770462662447,IR pressed,HF_69_A,,,,Spacebar,0,N/A,1741,N/A,N/A,N/A
+271,1770462662662,WR pressed,HF_69_A,,,,No,N/A,N/A,N/A,215,N/A,N/A
+271,1770462662663,gap_time,N/A,,,,GapTime_727,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462663391,Sentence shown,LVL_126_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462667392,gap_time,N/A,true,,,GapTime_1176,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462668569,Sentence shown,HF_67_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462670320,Validation Wrong IR pressed,HF_67_A,,,,Spacebar,0,N/A,1751,N/A,N/A,N/A
+271,1770462670320,IR pressed,HF_67_A,,,,Spacebar,0,N/A,1751,N/A,N/A,N/A
+271,1770462670670,WR pressed,HF_67_A,,,,No,N/A,N/A,N/A,350,N/A,N/A
+271,1770462670670,gap_time,N/A,,,,GapTime_1116,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462671787,Sentence shown,HF_90_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462674236,Validation Wrong IR pressed,HF_90_A,,,,Spacebar,0,N/A,2449,N/A,N/A,N/A
+271,1770462674236,IR pressed,HF_90_A,,,,Spacebar,0,N/A,2449,N/A,N/A,N/A
+271,1770462675232,WR pressed,HF_90_A,,,,No,N/A,N/A,N/A,996,N/A,N/A
+271,1770462675232,gap_time,N/A,,,,GapTime_992,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462676226,Sentence shown,HF_86_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462678693,Validation Wrong IR pressed,HF_86_A,,,,Spacebar,0,N/A,2467,N/A,N/A,N/A
+271,1770462678693,IR pressed,HF_86_A,,,,Spacebar,0,N/A,2467,N/A,N/A,N/A
+271,1770462678958,WR pressed,HF_86_A,,,,No,N/A,N/A,N/A,265,N/A,N/A
+271,1770462678959,gap_time,N/A,,,,GapTime_746,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462679706,Sentence shown,HF_68_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462681355,Validation Wrong IR pressed,HF_68_A,,,,Spacebar,0,N/A,1649,N/A,N/A,N/A
+271,1770462681355,IR pressed,HF_68_A,,,,Spacebar,0,N/A,1649,N/A,N/A,N/A
+271,1770462681764,WR pressed,HF_68_A,,,,No,N/A,N/A,N/A,409,N/A,N/A
+271,1770462681764,gap_time,N/A,,,,GapTime_1159,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462682924,Sentence shown,LVL_126_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462684603,IR pressed,LVL_126_A,true,,true,Spacebar,1,N/A,1679,N/A,N/A,N/A
+271,1770462685504,WR pressed,LVL_126_A,true,,true,Yes,N/A,0,N/A,901,N/A,N/A
+271,1770462685504,gap_time,N/A,true,,true,GapTime_1135,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462686640,Sentence shown,HF_92_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462689377,Validation Wrong IR pressed,HF_92_A,,,,Spacebar,0,N/A,2737,N/A,N/A,N/A
+271,1770462689377,IR pressed,HF_92_A,,,,Spacebar,0,N/A,2737,N/A,N/A,N/A
+271,1770462690018,WR pressed,HF_92_A,,,,No,N/A,N/A,N/A,641,N/A,N/A
+271,1770462690019,gap_time,N/A,,,,GapTime_950,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462690969,Sentence shown,LVH_152_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462693224,Validation Wrong IR pressed,LVH_152_P,true,,,Spacebar,0,N/A,2255,N/A,N/A,N/A
+271,1770462693224,IR pressed,LVH_152_P,true,,,Spacebar,0,N/A,2255,N/A,N/A,N/A
+271,1770462693756,WR pressed,LVH_152_P,true,,,No,N/A,1,N/A,532,N/A,N/A
+271,1770462693756,gap_time,N/A,true,,,GapTime_1210,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462694967,Sentence shown,HF_73_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462696374,Validation Wrong IR pressed,HF_73_A,,,,Spacebar,0,N/A,1407,N/A,N/A,N/A
+271,1770462696374,IR pressed,HF_73_A,,,,Spacebar,0,N/A,1407,N/A,N/A,N/A
+271,1770462696584,WR pressed,HF_73_A,,,,No,N/A,N/A,N/A,210,N/A,N/A
+271,1770462696585,gap_time,N/A,,,,GapTime_1137,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462697722,Sentence shown,HF_92_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462699013,Validation IR pressed,HF_92_A,,true,true,Spacebar,1,N/A,1291,N/A,N/A,N/A
+271,1770462699013,IR pressed,HF_92_A,,true,true,Spacebar,1,N/A,1291,N/A,N/A,N/A
+271,1770462699299,WR pressed,HF_92_A,,true,true,Yes,N/A,N/A,N/A,286,N/A,N/A
+271,1770462699299,gap_time,N/A,,true,true,GapTime_1167,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462700467,Sentence shown,HF_94_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462704468,gap_time,N/A,,,,GapTime_718,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462705187,Sentence shown,HF_71_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462706427,Validation Wrong IR pressed,HF_71_A,,,,Spacebar,0,N/A,1240,N/A,N/A,N/A
+271,1770462706427,IR pressed,HF_71_A,,,,Spacebar,0,N/A,1240,N/A,N/A,N/A
+271,1770462707245,WR pressed,HF_71_A,,,,No,N/A,N/A,N/A,818,N/A,N/A
+271,1770462707245,gap_time,N/A,,,,GapTime_1070,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462708316,Sentence shown,HF_95_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462712055,Validation Wrong IR pressed,HF_95_A,,,,Spacebar,0,N/A,3739,N/A,N/A,N/A
+271,1770462712055,IR pressed,HF_95_A,,,,Spacebar,0,N/A,3739,N/A,N/A,N/A
+271,1770462712611,WR pressed,HF_95_A,,,,No,N/A,N/A,N/A,556,N/A,N/A
+271,1770462712611,gap_time,N/A,,,,GapTime_942,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462713554,Sentence shown,HF_94_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462716203,Validation IR pressed,HF_94_A,,true,true,Spacebar,1,N/A,2649,N/A,N/A,N/A
+271,1770462716203,IR pressed,HF_94_A,,true,true,Spacebar,1,N/A,2649,N/A,N/A,N/A
+271,1770462716463,WR pressed,HF_94_A,,true,true,Yes,N/A,N/A,N/A,260,N/A,N/A
+271,1770462716463,gap_time,N/A,,true,true,GapTime_755,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462717219,Sentence shown,LVH_133_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462721220,gap_time,N/A,true,,,GapTime_1140,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462722361,Sentence shown,LVH_152_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462723707,IR pressed,LVH_152_A,true,,true,Spacebar,1,N/A,1346,N/A,N/A,N/A
+271,1770462724926,WR pressed,LVH_152_A,true,,true,Yes,N/A,0,N/A,1219,N/A,N/A
+271,1770462724926,gap_time,N/A,true,,true,GapTime_1221,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462726148,Sentence shown,HF_83_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462727641,Validation Wrong IR pressed,HF_83_A,,,,Spacebar,0,N/A,1492,N/A,N/A,N/A
+271,1770462727641,IR pressed,HF_83_A,,,,Spacebar,0,N/A,1492,N/A,N/A,N/A
+271,1770462727890,WR pressed,HF_83_A,,,,No,N/A,N/A,N/A,249,N/A,N/A
+271,1770462727890,gap_time,N/A,,,,GapTime_706,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462728597,Sentence shown,HH_155_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462732598,gap_time,N/A,true,,,GapTime_1057,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462733656,Sentence shown,HVL_163_P,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462737474,Validation Wrong IR pressed,HVL_163_P,true,,,Spacebar,0,N/A,3818,N/A,N/A,N/A
+271,1770462737474,IR pressed,HVL_163_P,true,,,Spacebar,0,N/A,3818,N/A,N/A,N/A
+271,1770462738472,WR pressed,HVL_163_P,true,,,No,N/A,1,N/A,998,N/A,N/A
+271,1770462738473,gap_time,N/A,true,,,GapTime_1181,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462739655,Sentence shown,LVL_100_A,true,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462741778,Validation Wrong IR pressed,LVL_100_A,true,,,Spacebar,0,N/A,2123,N/A,N/A,N/A
+271,1770462741778,IR pressed,LVL_100_A,true,,,Spacebar,0,N/A,2123,N/A,N/A,N/A
+271,1770462742533,WR pressed,LVL_100_A,true,,,No,N/A,0,N/A,755,N/A,N/A
+271,1770462742533,gap_time,N/A,true,,,GapTime_701,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462743235,Sentence shown,HF_96_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462744596,Validation Wrong IR pressed,HF_96_A,,,,Spacebar,0,N/A,1361,N/A,N/A,N/A
+271,1770462744596,IR pressed,HF_96_A,,,,Spacebar,0,N/A,1361,N/A,N/A,N/A
+271,1770462745240,WR pressed,HF_96_A,,,,No,N/A,N/A,N/A,644,N/A,N/A
+271,1770462745240,gap_time,N/A,,,,GapTime_820,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462746061,Sentence shown,LVH_133_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462748242,IR pressed,LVH_133_A,true,,true,Spacebar,1,N/A,2181,N/A,N/A,N/A
+271,1770462749966,WR pressed,LVH_133_A,true,,true,No,N/A,0,N/A,1724,N/A,N/A
+271,1770462749966,gap_time,N/A,true,,true,GapTime_1047,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462751014,Sentence shown,HF_96_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462752228,Validation IR pressed,HF_96_A,,true,true,Spacebar,1,N/A,1214,N/A,N/A,N/A
+271,1770462752228,IR pressed,HF_96_A,,true,true,Spacebar,1,N/A,1214,N/A,N/A,N/A
+271,1770462752580,WR pressed,HF_96_A,,true,true,Yes,N/A,N/A,N/A,352,N/A,N/A
+271,1770462752581,gap_time,N/A,,true,true,GapTime_1179,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462753761,Sentence shown,HF_82_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462755284,Validation Wrong IR pressed,HF_82_A,,,,Spacebar,0,N/A,1523,N/A,N/A,N/A
+271,1770462755284,IR pressed,HF_82_A,,,,Spacebar,0,N/A,1523,N/A,N/A,N/A
+271,1770462755646,WR pressed,HF_82_A,,,,No,N/A,N/A,N/A,362,N/A,N/A
+271,1770462755646,gap_time,N/A,,,,GapTime_912,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462756559,Sentence shown,HF_82_A,,true,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462758047,Validation IR pressed,HF_82_A,,true,true,Spacebar,1,N/A,1488,N/A,N/A,N/A
+271,1770462758047,IR pressed,HF_82_A,,true,true,Spacebar,1,N/A,1488,N/A,N/A,N/A
+271,1770462758388,WR pressed,HF_82_A,,true,true,Yes,N/A,N/A,N/A,341,N/A,N/A
+271,1770462758389,gap_time,N/A,,true,true,GapTime_1083,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462759473,Sentence shown,HF_79_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462761013,Validation Wrong IR pressed,HF_79_A,,,,Spacebar,0,N/A,1540,N/A,N/A,N/A
+271,1770462761013,IR pressed,HF_79_A,,,,Spacebar,0,N/A,1540,N/A,N/A,N/A
+271,1770462761257,WR pressed,HF_79_A,,,,No,N/A,N/A,N/A,244,N/A,N/A
+271,1770462761257,gap_time,N/A,,,,GapTime_896,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462762153,Sentence shown,HVL_163_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462764347,IR pressed,HVL_163_A,true,,true,Spacebar,1,N/A,2194,N/A,N/A,N/A
+271,1770462765497,WR pressed,HVL_163_A,true,,true,Yes,N/A,0,N/A,1150,N/A,N/A
+271,1770462765497,gap_time,N/A,true,,true,GapTime_1076,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462766574,Sentence shown,HH_155_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462768597,IR pressed,HH_155_A,true,,true,Spacebar,1,N/A,2023,N/A,N/A,N/A
+271,1770462769135,WR pressed,HH_155_A,true,,true,Yes,N/A,0,N/A,538,N/A,N/A
+271,1770462769136,gap_time,N/A,true,,true,GapTime_1269,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462770406,Sentence shown,HF_85_A,,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462771857,Validation Wrong IR pressed,HF_85_A,,,,Spacebar,0,N/A,1451,N/A,N/A,N/A
+271,1770462771857,IR pressed,HF_85_A,,,,Spacebar,0,N/A,1451,N/A,N/A,N/A
+271,1770462772114,WR pressed,HF_85_A,,,,No,N/A,N/A,N/A,257,N/A,N/A
+271,1770462772114,gap_time,N/A,,,,GapTime_1012,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462773127,Sentence shown,LVL_100_A,true,,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+271,1770462774287,IR pressed,LVL_100_A,true,,true,Spacebar,1,N/A,1159,N/A,N/A,N/A
+271,1770462774673,WR pressed,LVL_100_A,true,,true,Yes,N/A,1,N/A,386,N/A,N/A
+271,1770462774674,gap_time,N/A,true,,true,GapTime_942,N/A,N/A,N/A,N/A,N/A,N/A

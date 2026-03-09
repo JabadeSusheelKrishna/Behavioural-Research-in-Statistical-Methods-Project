@@ -1,0 +1,9 @@
+Condition,word_type,voice,W,p,p_str,Normal (p>.05)
+HH-Active,HH,Active,0.9301,1.85524801841486e-05,<.0001,False
+HH-Passive,HH,Passive,0.8727,2.3483984042704974e-08,<.0001,False
+HL-Active,HL,Active,0.9249,9.139878792443475e-06,<.0001,False
+HL-Passive,HL,Passive,0.9101,1.3928535935291806e-06,<.0001,False
+LH-Active,LH,Active,0.9316,2.297871862667795e-05,<.0001,False
+LH-Passive,LH,Passive,0.8948,2.3634122723985436e-07,<.0001,False
+LL-Active,LL,Active,0.9312,2.1676231440655917e-05,<.0001,False
+LL-Passive,LL,Passive,0.9518,0.0004945958010734963,0.0005,False
