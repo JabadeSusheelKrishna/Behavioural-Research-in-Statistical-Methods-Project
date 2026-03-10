@@ -83,11 +83,12 @@ The project generates comprehensive visualizations located in the `results2/` fo
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
-**Jabade Susheel Krishna**  
-Computer Science Undergraduate, IIIT Hyderabad  
-[GitHub](https://github.com/JabadeSusheelKrishna) | [Email](mailto:susheelkrishnajabade@gmail.com)
+- Vishnu Varun – Data preparation ,  Data processing and block validation, Descriptive statistics (WR section)
+- Pavan Karke – Introduction; Hypothesis formulation; Experimental design and variables; Descriptive statistics (Memorability by Word Type)
+- Susheel Krishna – Descriptive statistics (Memorability by Voice and interaction exploration); Normality analysis (Shapiro–Wilk); Conclusion, Limitations, and Future Work
+
 
 ---
 
