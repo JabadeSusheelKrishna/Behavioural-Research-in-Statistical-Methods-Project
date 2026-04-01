@@ -1,3 +1,9 @@
 brsm
 venv_pdf
 Sentence_Memorability
+./NewLogsAnonymized
+./NewLogsAnonymized/*
+./new
+./new/*
+NewLogsAnonymized
+new
