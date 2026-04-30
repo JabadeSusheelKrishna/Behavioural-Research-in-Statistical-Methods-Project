@@ -1,0 +1,18 @@
+Hypothesis 1: Effect of Word Memorability Type on Sentence Memorability (CMS)
+
+Methodology:
+To test whether the intrinsic memorability of nouns (High/Low) affects overall sentence recognition, a Friedman Test was conducted on the Corrected Memorability Scores (CMS) across four conditions: High-High (HH), High-Low (HL), Low-High (LH), and Low-Low (LL). Analysis was performed on a target sample of N = 112 participants.
+
+Statistical Results:
+- Omnibus Test (Friedman): χ²(3, N = 112) = 28.537, p < 0.001
+- Effect Size: Kendall’s W = 0.085 (indicative of a significant but small-to-medium effect)
+
+Post-hoc Pairwise Comparisons (Wilcoxon Signed-Rank with Holm Correction):
+1. HH vs. LL: W = 1268.0, p_raw < 0.001, p_holm = 0.0006, r_rb = 0.435 (Significant)
+2. HL vs. LL: W = 1107.0, p_raw < 0.001, p_holm < 0.0001, r_rb = 0.507 (Significant)
+3. LH vs. LL: W = 1314.5, p_raw < 0.001, p_holm = 0.0016, r_rb = 0.414 (Significant)
+4. HH vs. HL: W = 2673.0, p_holm = 1.0 (Not Significant)
+5. HH vs. LH: W = 2865.0, p_holm = 1.0 (Not Significant)
+
+Interpretation:
+The results strongly support H1. Sentences containing at least one high-memorability noun (HH, HL, LH) achieved significantly higher recognition scores compared to sentences where both nouns were low-memorability (LL). The absence of significant differences between HH, HL, and LH suggests a "saturation effect," where a single memorable cue is sufficient to boost sentence recognition.

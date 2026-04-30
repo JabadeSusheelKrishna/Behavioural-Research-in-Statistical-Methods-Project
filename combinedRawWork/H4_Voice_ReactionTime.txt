@@ -1,0 +1,16 @@
+Hypothesis 4: Effect of Grammatical Voice on Item Recognition Reaction Time (IR RT)
+
+Methodology:
+While H2 showed no accuracy difference between Active and Passive sentences, H4 tested whether syntactic complexity affects processing speed. A Wilcoxon Signed-Rank Test was conducted on the median Item Recognition Reaction Times (IR RT) for correct "Hit" trials only, comparing Active and Passive structures within N = 112 participants.
+
+Statistical Results:
+- Test Statistic: Wilcoxon W = 2193.0
+- p-value: p = 0.0022
+- Effect Size: Rank-biserial correlation r_rb = 0.331 (Medium effect)
+
+Descriptive Stats:
+- Passive RT was on average 44 ms slower than Active RT.
+- A majority of participants (68 out of 112) were slower on passive sentences.
+
+Interpretation:
+The results support H4, revealing an "Accuracy–Latency Dissociation." Although participants recognize passive sentences as accurately as active ones (as seen in H2), they take significantly longer to confirm the recognition. This suggests that theagent-patient re-mapping required by passive constructions imposes a "processing cost" at the retrieval stage, slowing the cognitive decision-making process.

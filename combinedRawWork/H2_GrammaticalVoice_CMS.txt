@@ -1,0 +1,12 @@
+Hypothesis 2: Effect of Grammatical Voice on Sentence Memorability (CMS)
+
+Methodology:
+This analysis investigated whether the syntactic structure of a sentence (Active vs. Passive voice) significantly influences recognition accuracy. A Wilcoxon Signed-Rank Test was used to compare the within-subject CMS for Active and Passive sentences (N = 112).
+
+Statistical Results:
+- Test Statistic: Wilcoxon W = 2596.0
+- p-value: p = 0.443048
+- Effect Size: Rank-biserial correlation r_rb = 0.071 (Trivial)
+
+Interpretation:
+The null hypothesis (H0) is retained. There is no significant difference in the Corrected Memorability Score (CMS) between Active and Passive sentences. This suggests that while passive sentences may be more syntactically complex, this complexity does not consistently reduce the likelihood of the sentence being recognized in an item-recognition task. The memory representation appears to be primarily driven by semantic content rather than syntactic surface structure.
