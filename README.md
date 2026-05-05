@@ -34,60 +34,36 @@ pip install pandas numpy matplotlib seaborn scipy
 
 ### 📂 Project Structure
 *   `Sentence Memorability/`: Contains raw anonymized participant logs (`.log` files).
-*   `sentence_memorability_report_3.py`: The primary analysis script (Latest version).
-*   `results2/`: Generated visualizations and CSV summaries (Cleaned/Final).
-*   `results/`: Initial/Raw plot outputs.
+*   `Hypothesis Analysis/*`: Has analysis for all the Hypothesis.
+*   `results/`: Generated visualizations and CSV summaries (Cleaned/Final) for Mid.
 *   `papers/`: Foundational research papers regarding word concreteness and imagery.
 
 ---
 
 ## 🛠️ Running the Analysis
 
-The analysis follows a two-step workflow: generating the processed metrics and then creating refined visualizations.
-
-### Step 1: Process Logs & Generate Metrics
-This command parses the raw `.log` files, performs block validation, and calculates corrected memorability scores.
-
+- You can just the respective notebook files
+- go to Hypothesis Directory
 ```bash
-python sentence_memorability_report_3.py --logs_dir "./Sentence Memorability/NewLogsAnonymized" --output_dir "./results2"
+cd "Hypothesis Analysis"
 ```
-
-**What this step does:**
-*   **Data Cleaning**: Removes practice blocks and filters irrelevant events.
-*   **Validation**: Implements the exclusion formula: `Correct IRs > (Wrong IRs / 2) + Missed IRs`. 
-*   **Metrics Calculation**: Computes **Corrected Memorability Scores (CMS)**, Reaction Times (RT), and Word Recognition (WR) Accuracy.
-*   **Outputs**: Saves `corrected_memorability.csv` which is required for the next step.
-
-### Step 2: Generate Refined Visualizations
-Once the CSV is generated, run the updated plotting script to create high-quality, publication-ready figures.
-
-```bash
-python report2_updated_plots.py
-```
-
-**What this step does:**
-*   Generates cleaned bar charts with 95% Confidence Intervals.
-*   Produces interaction plots and violin plots for distribution analysis.
-*   Saves outputs to the `results2/` folder.
-
----
+- run each of the notebook file or open in colab and click run all
 
 ## 📊 Key Findings & Visualizations
 
-The project generates comprehensive visualizations located in the `results2/` folder:
+This study investigated sentence memorability across 112 participants using a continuous recognition paradigm. Key findings are as follows:
+Word memorability type significantly influenced recognition, with LL sentences consistently scoring lower than all other conditions, confirming that even a single high-memorability noun is sufficient to sustain recognition performance. Grammatical voice, however, did not affect recognition accuracy but did impose a measurable retrieval cost, with passive sentences taking significantly longer to recognise. WR accuracy showed a descriptively consistent but statistically non-significant trend across memorability conditions, likely reflecting a power limitation.
+Contrary to the classic speed-accuracy tradeoff, faster responses were significantly more accurate, pointing to a decisiveness effect driven by memory strength rather than a speed-accuracy exchange. Performance improved rather than declined across experimental blocks, indicating a learning effect. Syntactic transformation of voice produced a substantial accuracy penalty in wording retrieval, confirming that surface-level syntactic form is retained in memory. Finally, within-subject RT fluctuations predicted wording retrieval accuracy in the unadjusted model, though this effect was partially explained by sentence-level difficulty.
+Overall, sentence memorability is primarily shaped by noun-level memorability, while grammatical voice influences retrieval efficiency rather than recognition accuracy. These results support Dual Coding Theory and psycholinguistic accounts of passive processing, while also revealing a memory-strength-driven decisiveness effect in recognition behaviour.
 
-*   **Raincloud Plots**: Show the raw distribution, boxplot, and density of CMS across word types and voices.
-*   **Interaction Plots**: Visualize how Voice affects different word-memorability types differently.
-*   **Normality Checks**: Q-Q plots and Histogram panels showing that the data is statistically non-normal ($p < 0.001$), necessitating non-parametric tests.
-*   **Reaction Latency**: Analysis of how abstract syntax (passive voice) or abstract words (LL) slow down recognition time.
 
 ---
 
 ## 👤 Authors
 
-- Vishnu Varun – Data preparation ,  Data processing and block validation, Descriptive statistics (WR section)
-- Pavan Karke – Introduction; Hypothesis formulation; Experimental design and variables; Descriptive statistics (Memorability by Word Type)
-- Susheel Krishna – Descriptive statistics (Memorability by Voice and interaction exploration); Normality analysis (Shapiro–Wilk); Conclusion, Limitations, and Future Work
+- Susheel Krishna
+- Pavan Karke
+- Vishnu Varun
 
 
 ---
